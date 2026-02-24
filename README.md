@@ -1,2 +1,2902 @@
-# Portal-procesos-administrativos
-n este portal encontrarás los principales recursos de apoyo operativo. Aquí podrás consultar instructivos, acceder a charlas virtuales de acompañamiento y formación, y disponer de un canal para solicitar acompañamiento
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="PORTAL%20PROCESOS%20ADMINISTRATIVOS.fld/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Jassir Quintero Meriño</o:Author>
+  <o:LastAuthor>Jassir Quintero Meriño</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2026-02-24T21:29:00Z</o:Created>
+  <o:LastSaved>2026-02-24T21:30:00Z</o:LastSaved>
+  <o:Pages>6</o:Pages>
+  <o:Words>598</o:Words>
+  <o:Characters>6420</o:Characters>
+  <o:Lines>305</o:Lines>
+  <o:Paragraphs>269</o:Paragraphs>
+  <o:CharactersWithSpaces>6749</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData
+href="PORTAL%20PROCESOS%20ADMINISTRATIVOS.fld/themedata.thmx">
+<link rel=colorSchemeMapping
+href="PORTAL%20PROCESOS%20ADMINISTRATIVOS.fld/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-CO</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Aptos;
+	panose-1:2 11 0 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+@font-face
+	{font-family:"Apple Color Emoji";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 402653184 335544320 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 1 Car";
+	mso-style-next:Normal;
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:20.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 2 Car";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 3 Car";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 4 Car";
+	mso-style-next:Normal;
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 5 Car";
+	mso-style-next:Normal;
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 6 Car";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 7 Car";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 8 Car";
+	mso-style-next:Normal;
+	margin:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Título 9 Car";
+	mso-style-next:Normal;
+	margin:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título Car";
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título Car";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título Car";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título Car";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Subtítulo Car";
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	letter-spacing:.75pt;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Cita Car";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:center;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Cita destacada Car";
+	mso-style-next:Normal;
+	margin-top:18.0pt;
+	margin-right:43.2pt;
+	margin-bottom:18.0pt;
+	margin-left:43.2pt;
+	text-align:center;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #0F4761 .5pt;
+	mso-border-top-themecolor:accent1;
+	mso-border-top-themeshade:191;
+	mso-border-bottom-alt:solid #0F4761 .5pt;
+	mso-border-bottom-themecolor:accent1;
+	mso-border-bottom-themeshade:191;
+	padding:0cm;
+	mso-padding-alt:10.0pt 0cm 10.0pt 0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{mso-style-priority:21;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.MsoIntenseReference
+	{mso-style-priority:32;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	font-variant:small-caps;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	font-weight:bold;}
+span.Ttulo1Car
+	{mso-style-name:"Título 1 Car";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 1";
+	mso-ansi-font-size:20.0pt;
+	mso-bidi-font-size:20.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Ttulo2Car
+	{mso-style-name:"Título 2 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Ttulo3Car
+	{mso-style-name:"Título 3 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 3";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Ttulo4Car
+	{mso-style-name:"Título 4 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 4";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.Ttulo5Car
+	{mso-style-name:"Título 5 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 5";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Ttulo6Car
+	{mso-style-name:"Título 6 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 6";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	font-style:italic;}
+span.Ttulo7Car
+	{mso-style-name:"Título 7 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 7";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;}
+span.Ttulo8Car
+	{mso-style-name:"Título 8 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 8";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	font-style:italic;}
+span.Ttulo9Car
+	{mso-style-name:"Título 9 Car";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Título 9";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;}
+span.TtuloCar
+	{mso-style-name:"Título Car";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Título;
+	mso-ansi-font-size:28.0pt;
+	mso-bidi-font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+span.SubttuloCar
+	{mso-style-name:"Subtítulo Car";
+	mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Subtítulo;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	letter-spacing:.75pt;}
+span.CitaCar
+	{mso-style-name:"Cita Car";
+	mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Cita;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	font-style:italic;}
+span.CitadestacadaCar
+	{mso-style-name:"Cita destacada Car";
+	mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Cita destacada";
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=ES-CO style='tab-interval:35.4pt;word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;!DOCTYPE html&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;html lang=&quot;es&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;head&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;meta <span class=SpellE>charset</span>=&quot;UTF-8&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; &lt;<span
+class=SpellE>title</span>&gt;Herramienta de Procesos Administrativos | ARL
+SURA&lt;/<span class=SpellE>title</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;meta name=&quot;viewport&quot;
+content=&quot;width=device-width, initial-scale=1.0&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;style&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; body{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; font-family:
+&quot;Segoe UI&quot;, Arial, sans-serif;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; margin:0;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#f4f7fb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#1f2937;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; header{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#ffffff;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-bottom:1px solid #e5e7eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:16px
+24px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; display:flex;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+align-items:center;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+justify-content:space-between;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; header .brand{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; display:flex;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+align-items:center;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gap:12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; font-weight:600;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#0033a0;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; header img{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; height:40px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; nav a{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-left:12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-decoration:none;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#0033a0;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+font-weight:500;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:6px
+12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:20px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; border:1px
+solid #dbeafe;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#eff6ff;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; main{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+max-width:1100px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; margin:24px
+auto;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:0 16px
+40px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; section{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#ffffff;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:24px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-bottom:24px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; box-shadow:0
+4px 10px rgba(0,0,0,0.05);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; h1,h2,h3{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#0033a0;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .grid{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; display:grid;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>gap:16px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+.<span class=SpellE>card</span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border:1px <span class=SpellE>solid</span> #e5e7eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>border-radius:10px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:16px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#f9fafb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .card h4{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; margin:0 0
+10px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+font-size:15px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .buttons a{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+display:inline-block;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-right:8px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-top:6px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:6px
+12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:20px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-decoration:none;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+font-size:13px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#2563eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#fff;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .buttons a.secondary{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#e5e7eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#1f2937;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .search{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; margin-bottom:16px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .search input{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; width:100%;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:10px
+12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:8px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; border:1px
+solid #d1d5db;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .meeting{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; display:flex;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+justify-content:space-between;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+align-items:center;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; border:1px
+solid #e5e7eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:16px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:10px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-top:12px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#f9fafb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .meeting a{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#2563eb;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#fff;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; padding:8px
+16px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+border-radius:20px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-decoration:none;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+font-weight:500;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; .whatsapp{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+background:#dcfce7;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; border:1px
+solid #86efac;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; footer{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+text-align:center;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+font-size:13px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color:#6b7280;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+margin-top:32px;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;/style&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;script&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; function
+buscarInstructivos() {<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; let input =
+document.getElementById(&quot;buscador&quot;).value.toLowerCase();<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; let items =
+document.querySelectorAll(&quot;.instructivo&quot;);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+items.forEach(i=&gt;{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+i.style.display = i.dataset.nombre.includes(input) ? &quot;block&quot; :
+&quot;none&quot;;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; });<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;/script&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/head&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;body&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;header&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;div class=&quot;brand&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;img
+src=&quot;https://www.sura.com/themes/custom/sura/images/logo-sura.svg&quot;
+alt=&quot;SURA&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;strong&gt;Portal
+de Procesos Administrativos&lt;/strong&gt;&lt;br&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;small&gt;Regional Norte · ARL SURA&lt;/small&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;nav&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;a
+href=&quot;#instructivos&quot;&gt;Instructivos&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;a <span
+class=SpellE>href</span>=&quot;#charlas&quot;&gt;Charlas virtuales&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;a <span class=SpellE>href</span>=&quot;#contacto&quot;&gt;Acompañamiento&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;/<span class=SpellE>nav</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>header</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>main</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>section</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;h1&gt;Herramienta de Procesos Administrativos&lt;/h1&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+En este portal encontrarás los principales recursos de apoyo operativo. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+Aquí podrás consultar instructivos, acceder a charlas virtuales de
+acompañamiento <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+y formación, y disponer de un canal para solicitar acompañamiento.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/section&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;section id=&quot;instructivos&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;h2&gt;1. Instructivos&lt;/h2&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;div class=&quot;search&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;input
+id=&quot;buscador&quot; <span class=SpellE>type</span>=&quot;<span
+class=SpellE>text</span>&quot; <span class=SpellE>placeholder</span>=&quot;Buscar
+instructivo por nombre...&quot; <span class=SpellE>onkeyup</span>=&quot;<span
+class=SpellE>buscarInstructivos</span>()&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;/<span class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; &lt;<span
+class=SpellE>div</span> <span class=SpellE>class</span>=&quot;<span
+class=SpellE>grid</span>&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;!-- Ejemplo instructivo (estructura aplicada a todos) --&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;<span class=SpellE>div</span> <span class=SpellE>class</span>=&quot;<span
+class=SpellE>card</span> instructivo&quot; data-nombre=&quot;como actualizo el
+documento de un trabajador&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;h4&gt;Cómo actualizo el documento de un trabajador&lt;/h4&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;div class=&quot;buttons&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;a
+href=&quot;https://1drv.ms/b/c/5a6827323876633c/IQAICdt3q1hlQZckzBkfZqUeAS3cHpuYMfeS_wiGffwMqaY?e=NvnRFj&quot;
+target=&quot;_blank&quot;&gt;Previsualizar&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;a class=&quot;secondary&quot;
+href=&quot;https://1drv.ms/b/c/5a6827323876633c/IQAICdt3q1hlQZckzBkfZqUeAS3cHpuYMfeS_wiGffwMqaY?e=NvnRFj&quot;
+target=&quot;_blank&quot;&gt;Descargar&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;/<span class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;!-- (Los demás instructivos mantienen la misma estructura ya implementada)
+--&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/section&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;section id=&quot;charlas&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;h2&gt;2. Charlas virtuales
+(Microsoft Teams)&lt;/h2&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;div class=&quot;meeting&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;<span class=SpellE>strong</span>&gt;Mesa de Apoyo Procesos
+Administrativos&lt;/<span class=SpellE>strong</span>&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lunes, miércoles y viernes · 8:00 a 9:00 a.m.&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Micrófono abierto donde las empresas pueden elevar sus inquietudes en mora e
+inexactitudes.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;/<span class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;a
+href=&quot;https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGQwMWIwZDItNDczOC00NjZjLTlhNzQtM2Q5MjQ5NTA5MDYw%40thread.v2/0?context=%7b%22Tid%22%3a%223c0bd4fe-1111-4d13-8e0c-7c33b9eb7581%22%2c%22Oid%22%3a%22b101dd91-b493-49aa-bc49-4837337cce76%22%7d&quot;
+target=&quot;_<span class=SpellE>blank</span>&quot;&gt;Unirse&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;div class=&quot;meeting&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>strong</span>&gt;Gestión y resolución de inexactitudes por
+pagos&lt;/<span class=SpellE>strong</span>&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>Jueves · 2:00 a 3:30 p.m.&lt;br&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>Capacitación
+para aprender a gestionar el estado de cuenta en moras e inexactitudes.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;/<span class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;a
+href=&quot;https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Q3YTk4M2ItMDMxMi00ZTg5LWFjMWEtN2FkMDIwN2JlMzYz%40thread.v2/0?context=%7b%22Tid%22%3a%223c0bd4fe-1111-4d13-8e0c-7c33b9eb7581%22%2c%22Oid%22%3a%229bfcffd0-4951-447f-bb54-02fd2378747d%22%7d&quot;
+target=&quot;_<span class=SpellE>blank</span>&quot;&gt;Unirse&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;div class=&quot;meeting&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp; &lt;div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>strong</span>&gt;Capacitación herramientas web que soportan los
+procesos administrativos – ARL&lt;/<span class=SpellE>strong</span>&gt;&lt;<span
+class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>Martes · 2:00 a 3:30 p.m.&lt;br&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>Espacio de
+capacitación en el uso de herramientas web.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;/<span class=SpellE>div</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+&lt;a
+href=&quot;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzdiNzJiNDAtNGIwNS00MDc5LTllYzctY2RiYzQ3MmQzOWNm%40thread.v2/0?context=%7b%22Tid%22%3a%223c0bd4fe-1111-4d13-8e0c-7c33b9eb7581%22%2c%22Oid%22%3a%229bfcffd0-4951-447f-bb54-02fd2378747d%22%7d&quot;
+target=&quot;_<span class=SpellE>blank</span>&quot;&gt;Unirse&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/section&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;section id=&quot;contacto&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; </span><span style='font-family:"Times New Roman",serif;
+mso-fareast-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ligatures:
+none;mso-fareast-language:ES-MX'>&lt;h2&gt;3. Solicitud de Acompañamiento
+Procesos Administrativos&lt;/h2&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;p&gt;Diligencia este formulario para solicitar apoyo en procesos
+administrativos.&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;a
+href=&quot;https://forms.office.com/r/cBBVEayL07&quot;
+target=&quot;_blank&quot; class=&quot;buttons a&quot;&gt;Ir al
+formulario&lt;/a&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/section&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>section</span> <span class=SpellE>class</span>=&quot;<span
+class=SpellE>whatsapp</span>&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;h2&gt;Atención para errores de clave&lt;/h2&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;
+&lt;p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+Si tu empresa presenta inconvenientes para acceder a la plataforma por errores
+de clave,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp;&nbsp;&nbsp;
+comunícate al canal de soporte por WhatsApp:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; </span><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-US style='font-family:"Times New Roman",serif;mso-fareast-font-family:
+"Times New Roman";mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:
+EN-US;mso-fareast-language:ES-MX'>&nbsp; &lt;p&gt;&lt;strong&gt;</span><span
+style='font-family:"Apple Color Emoji";mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Apple Color Emoji";mso-font-kerning:0pt;mso-ligatures:
+none;mso-fareast-language:ES-MX'>&#128241;</span><span lang=EN-US
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:
+ES-MX'> +57 315 275 7888&lt;/strong&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>section</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;<span
+class=SpellE>footer</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&nbsp; ARL
+SURA · Regional Norte · Herramienta de Procesos Administrativos<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>footer</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>main</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>body</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+style='font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
+mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:ES-MX'>&lt;/<span
+class=SpellE>html</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
